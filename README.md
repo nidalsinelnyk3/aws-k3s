@@ -79,7 +79,3 @@ terraform apply
   * bug: `bitnami/external-dns` container image only supports x86_64
     * node architecture may be arm64
     * fix: used `ghcr.io/zcube/bitnami-compat/external-dns` which supports multi-arch
-
-![Output](k3s.png)
-
-[Contact Me](https://discord.gg/sB9dUaj9jt)
